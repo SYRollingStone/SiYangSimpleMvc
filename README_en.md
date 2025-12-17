@@ -17,6 +17,8 @@ SiYangUnityMVC is a lightweight Unity MVC framework designed to simplify the imp
 2. Place the `SiYangUnityMVC` folder into your Unity project's `Assets` folder.
 3. Start using the MVC pattern with tools like `BindUtil`, `IMvcController`, and `SYMvcDisposer`.
 
+In Unity,Package Manager 'add package from git url':https://github.com/SYRollingStone/SiYangSimpleMvc.git
+
 ## Usage
 
 Please check Samples first.
